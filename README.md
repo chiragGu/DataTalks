@@ -2,4 +2,4 @@
 
 Initial File. 
 
-HW1 access 
+HW1 access: Module1 -> notebooks
